@@ -3,4 +3,4 @@ filename = '';
 target = blob_msg_extract(filename);
 
 avg   = mean(target);
-covar = cov(target); 
+covar = cov(target);
